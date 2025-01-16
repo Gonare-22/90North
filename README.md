@@ -66,14 +66,31 @@ Technologies Used
 Folder Structure
 ----------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   arduinoCopyEditproject/  ├── frontend/  │   ├── index.html  │   ├── styles.css  │   ├── scripts.js  ├── django_app/  │   ├── chat/  │   ├── templates/  │   ├── static/  │   ├── db.sqlite3  │   ├── manage.py  ├── aws/  │   ├── addition_function.py  │   ├── upload_to_s3.py  ├── requirements.txt  ├── README.md   `
+90North/
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   ├── scripts.js
+├── Chat-application/
+│   ├── chat/
+│   ├── templates/
+│   ├── static/
+│   ├── db.sqlite3
+│   ├── manage.py
+├── aws/
+│   ├── addition_function.py
+│   ├── upload_to_s3.py
+├── requirements.txt
+├── README.md
 
 Setup and Installation
 ----------------------
 
 ### **Step 1: Clone the Repository**
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopyEditgit clone https://github.com/yourusername/assignment_repo.git  cd assignment_repo   `
+git clone https://github.com/yourusername/assignment_repo.git
+cd assignment_repo
+
 
 ### **Step 2: Frontend**
 
