@@ -1,4 +1,4 @@
-Assignment Submission README
+90 North Assignment 
 ============================
 
 This repository contains the completed tasks for the assignment involving **Frontend Development**, **Django**, and **AWS Lambda Functions**. The project is divided into three main parts, each designed to meet the requirements specified in the assignment.
